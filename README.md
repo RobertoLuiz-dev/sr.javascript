@@ -1,1 +1,1 @@
-Interaja com o Sr. JavaScript!
+Interact with Mr. JavaScript!
